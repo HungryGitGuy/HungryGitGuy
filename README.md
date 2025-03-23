@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HungryGitGuy
 - 👀 I’m interested in 3D math, python, and general low level game development
-- 🌱 I’m currently learning C++ and godot
+- 🌱 I’m currently learning C++ and Django
 
 
 <!---
